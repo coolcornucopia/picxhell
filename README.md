@@ -1,10 +1,23 @@
 # **picXhell**
 coming soon...
 
-<img width="150" src="docs/images/test.svg">
-<img width="150" src="docs/images/test.svgz">
-![test svg](docs/images/test.svg" "alt test svg")
-![test svgz](docs/images/test.svgz" "alt test svgz")
+test1
+<img src="docs/images/test.svg">
+
+test2
+<img src="docs/images/test.svgz">
+
+test3
+<img src="docs/images/test.svgz" width="200px" height="200px" type="image/svg+xml">
+
+test4
+<embed src="docs/images/test.svgz" width="200px" height="200px" type="image/svg+xml" /> 
+
+test5
+![alt test svg](docs/images/test.svg)
+
+test6
+![alt test svgz](docs/images/test.svgz)
 
 yo!
 
