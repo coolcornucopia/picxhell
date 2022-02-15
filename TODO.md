@@ -14,8 +14,13 @@
 
 ## common - log
 - [ ] add a global "short heading" option to have "W/module_name" instead of "Warning module_name".
+- [ ] add the possibility to log into a file
+- [ ] add an example of console log as an svg animation
 
 
+
+--
+Peace
 coolcornucopia :smile:
 
 
